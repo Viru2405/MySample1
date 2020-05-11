@@ -4,3 +4,4 @@ Adding second line in branch 1.
 Adding third line in local branch 1.
 Adding third line in remote branch 1.
 Adding fourth line in remote branch 1.
+Adding fourth line in local branch 1.
